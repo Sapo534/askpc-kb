@@ -1,6 +1,6 @@
 ---
-title: Setting up Zapret on Arch Linux
-tags: [network, censorship, arch]
+title: Setting up MacquerenDE on Arch Linux
+tags: [desktop, de, arch]
 lang: en
 ---
 
