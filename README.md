@@ -52,4 +52,10 @@ Article body in regular markdown.
 
 ## License
 
-CC BY-SA 4.0
+Unless otherwise noted, the documentation in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](LICENSE).
+
+### Third-Party Documentation
+This repository contains third-party documentation that may be distributed under different licenses (e.g., GNU General Public License v3.0, MIT, etc.). 
+
+* Third-party materials remain under their original licenses and retain their original copyright notices.
+* Directories containing third-party documentation include a local `LICENSE` file or notice specifying the applicable terms.
