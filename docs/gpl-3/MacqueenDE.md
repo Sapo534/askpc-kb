@@ -1,5 +1,5 @@
 ---
-title: Setting up MacquerenDE on Arch Linux
+title: Setting up MacqueenDE on Arch Linux
 tags: [desktop, de, arch]
 lang: en
 ---
