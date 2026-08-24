@@ -1,6 +1,6 @@
 ---
 title: Setting up MacqueenDE on Arch Linux
-tags: [desktop, de, arch]
+tags: [wayland, de, linux, gui]
 lang: en
 ---
 
