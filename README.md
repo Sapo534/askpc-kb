@@ -44,11 +44,11 @@ Article body in regular markdown.
 
 ## How to submit an article
 
-1. Fork the repository
-2. Create a `.md` file in the appropriate directory
-3. Open a Pull Request with a short description of what you're adding/changing
-4. Wait for moderation review — checked for accuracy, topic fit, and language
-5. Once approved, it's merged and appears on the site via webhook
+1. Fork the repository.
+2. Create a `.md` file in the appropriate directory.
+3. Open a Pull Request with a short description of what you're adding/changing.
+4. Wait for moderation review — checked for accuracy, topic fit, and language.
+5. Once approved, it's merged and appears on the site via webhook.
 
 ## License
 
