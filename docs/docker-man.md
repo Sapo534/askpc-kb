@@ -39,13 +39,13 @@ Containers are isolated from the host system, but they still share the host's Li
 On Arch Linux, Docker is available directly from the official repositories:
 
 ```bash
-doas pacman -S docker
+sudo pacman -S docker
 ```
 
 Enable and start the Docker service:
 
 ```bash
-doas systemctl enable --now docker
+sudo systemctl enable --now docker
 ```
 
 Check that Docker is working:
@@ -69,7 +69,7 @@ By default, Docker commands require access to the Docker daemon, which commonly 
 You can add your user to the `docker` group:
 
 ```bash
-doas usermod -aG docker "$USER"
+sudo usermod -aG docker "$USER"
 ```
 
 Log out and back in for the new group membership to take effect.
