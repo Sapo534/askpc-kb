@@ -1,5 +1,5 @@
 ---
-title: Docker: A Beginner-Friendly Guide
+title: "Docker: A Beginner-Friendly Guide"
 tags: [docker, containers, linux, software]
 lang: en
 ---
